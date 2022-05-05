@@ -35,8 +35,8 @@ Este é um projeto desenvolvido como prática das aulas do Chapter II da trilha 
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/rafaelramosdev/go-restaurant
-$ cd go-restaurant
+$ git clone https://github.com/rafaelramosdev/gorestaurant
+$ cd gorestaurant
 ```
 
 Para iniciá-lo, siga os passos abaixo:
